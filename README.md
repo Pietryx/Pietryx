@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Pietryx
 - 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning python and C
+- 🌱 I’m currently learning Pyhon and C++
