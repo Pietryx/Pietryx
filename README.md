@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Pietryx
-- 👀 I’m interested in learning how to program
-- 🌱 I’m currently learning Arduino and PHP
-dsadasdas
+- 👀 I’m interested in learning how to programdddd ad asda
