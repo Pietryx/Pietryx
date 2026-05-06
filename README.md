@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @Pietryx
-- 👀 I’m interested in learning how to programdddd ad asda
+- 👀 I’m interested in learning how to program
